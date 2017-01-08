@@ -1,0 +1,8 @@
+title: Mabdrabo -- Mahmoud Abdrabo
+description: "\"you know you're on the right track when you know you can do better.\""
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
